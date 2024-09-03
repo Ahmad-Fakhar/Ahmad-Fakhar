@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Fakhar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="450px" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Fakhar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="500px" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Fakhar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="450px" height="200px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Fakhar&theme=radical&hide_border=false" alt="GitHub Streak" width="450px" height="200px" />
 </div>
